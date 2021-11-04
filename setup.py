@@ -2,9 +2,9 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-     name='Instagram_Cloner',  
+     name='instaclon',  
      version='0.1',
-     scripts=['insta-clon.py'] ,
+     scripts=['instaclon'] ,
      author="ABIR HOSSAIN",
      author_email="abirhossain200019@gmail.com",
      description="this is Instagram cloner",
