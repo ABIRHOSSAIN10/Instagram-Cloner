@@ -4,7 +4,7 @@ git clone https://github.com/ABIRHOSSAIN10/Instagram-Cloner
 
 cd Instagram-Cloner
 
-python2 instaclon.py
+python2 instaclon
 
 cradit:ABIRHOSSAIN and Rozhak
 
