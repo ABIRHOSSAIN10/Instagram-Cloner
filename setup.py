@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
      name='instaclon',  
      version='0.1',
-     scripts=['instaclon','calar'] ,
+     scripts=['instaclon','calar','instacloner'] ,
      author="ABIR HOSSAIN",
      author_email="abirhossain200019@gmail.com",
      description="this is Instagram cloner",
